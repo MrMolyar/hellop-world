@@ -1,2 +1,5 @@
 # hello-world
-first project on github
+
+Hi Humans!
+
+first project on github and check this shit
